@@ -1,0 +1,41 @@
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    grid-auto-rows: 150px;
+}
+.item {
+    border: 2px solid;
+    padding: 10px;
+    background-color: aqua;
+}
+.item_1 {
+    background-image: url(./lake-blue-moonlight-moon-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
+.item_2 {
+    background-image: url(./24117.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
+.item_3 {
+    background-image: url(./5bd28eeaec175-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
+.item_4 {
+    background-image: url(./Norway-in-a-nutshell-winter-best-time-fjords-Norway-view-fjords-3.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
+.item_5 {
+    background-image: url(./iceland-sea-glacier-snow.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
+.item_6 {
+    background-image: url(./wallpapersden.com_iceland-hofn-mountains_1920x1080.jpg);
+    background-size: cover;
+    background-position: 0%;
+}
